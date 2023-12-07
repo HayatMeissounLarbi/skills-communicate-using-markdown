@@ -5,4 +5,4 @@
 ##### Hello there
 ###### Hello there
 
-![Image of Yaktocat](https://octodex.github.com/mona-lovelace/)
+![Image of Lovelace](https://octodex.github.com/images/mona-lovelace.jpg)
